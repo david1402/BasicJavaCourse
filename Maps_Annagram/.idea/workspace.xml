@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3aa3faba-5e3a-408b-a636-cc92d7ae505a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lists_PersonsAndAddresses/Lists_PersonsAndAddresses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps_Anagram/src/de/telran/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps_SumOfKeys/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps_SumOfKeys/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps_SumOfKeys/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps_SumOfKeys/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps_SumOfKeys/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps_SumOfKeys/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps_SumOfKeys/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maps_SumOfKeys/Maps_SumOfKeys.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\david\IdeaProjects\Projects\BasicJavaCourse\Maps_Annagram\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SyRgw1mBEV4T1Qn5W9JlN0p5Al" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.Main" />
+      <module name="Maps_Annagram" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aa3faba-5e3a-408b-a636-cc92d7ae505a" name="Default Changelist" comment="" />
+      <created>1572533963077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572533963077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
